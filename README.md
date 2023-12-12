@@ -1,4 +1,4 @@
-# Submission-ML-3-ImageClassification-Deployment
+<h1 align=center>Submission ML 3 ImageClassification Deployment | <a href="https://www.kaggle.com/datasets/mostafaabla/garbage-classification">Dataset</a></h1>
 # Review Rating : ⭐⭐⭐⭐
 Submission Checklists :
 
